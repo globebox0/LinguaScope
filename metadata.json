@@ -1,0 +1,5 @@
+{
+  "name": "LinguaScope",
+  "description": "An AI assistant that analyzes, translates, and summarizes web page content from a URL. It prioritizes a dark-mode, keyboard-centric user experience with local-first data management.",
+  "requestFramePermissions": []
+}
